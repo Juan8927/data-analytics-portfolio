@@ -3,25 +3,25 @@
 
 ---
 
-## 👋 Bienvenido
+## 👋 Welcome
 
-Este repositorio contiene mi viaje en **Análisis de Datos**, desarrollando habilidades en SQL, Excel, R y Visualización de Datos.
+This repository contains my journey in **Data Analytics**, developing skills in SQL, Excel, R, and Data Visualization.
 
-**Estado:** En progreso - Google Data Analytics Certificate (Coursera)
-
----
-
-## 🎯 Objetivo
-
-Convertirme en un **Data Analyst competente** capaz de:
-- ✅ Limpiar y preparar datos
-- ✅ Escribir SQL complejo
-- ✅ Crear visualizaciones profesionales
-- ✅ Contar historias con datos
+**Status:** In Progress - Google Data Analytics Certificate (Coursera)
 
 ---
 
-## 📚 Actualmente Aprendiendo
+## 🎯 Objective
+
+Become a **Competent Data Analyst** capable of:
+- ✅ Cleaning and preparing data
+- ✅ Writing complex SQL queries
+- ✅ Creating professional visualizations
+- ✅ Telling stories with data
+
+---
+
+## 📚 Currently Learning
 
 - **SQL:** Queries, Joins, Window Functions
 - **R:** Data manipulation & visualization
@@ -30,4 +30,4 @@ Convertirme en un **Data Analyst competente** capaz de:
 
 ---
 
-## 📁 Estructura del Proyecto
+## 📁 Project Structure
